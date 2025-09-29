@@ -1,4 +1,4 @@
 # diwali-wishes-project
  
-# Search in URL for dynamic names:
-**?r=ReciverName&s=SenderName**
+**Search in URL for dynamic names:**
+_**?s=SenderName&r=ReciverName**_
